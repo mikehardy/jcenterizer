@@ -1,0 +1,27 @@
+{
+  "name": "jcenterizer",
+  "version": "0.0.1",
+  "description": "Automated workaround for popular dependencies only available on jcenter/bintray",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikehardy/jcenterizer.git"
+  },
+  "keywords": [
+    "jcenter",
+    "bintray",
+    "workaround",
+    "react-native",
+    "android",
+    "build"
+  ],
+  "author": "Mike Hardy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikehardy/jcenterizer/issues"
+  },
+  "homepage": "https://github.com/mikehardy/jcenterizer#readme"
+}
