@@ -1,5 +1,17 @@
 JCenterizer
 
+# NO LONGER NECESSARY
+
+https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/
+
+> UPDATE 4/27/2021: We listened to the community and will keep JCenter as a read-only repository indefinitely. Our customers and the community can continue to rely on JCenter as a reliable mirror for Java packages.
+
+
+The easiest to maintain code is the code you don't write, so with JCenter committing to keep the repo up for old dependencies this is no longer needed and I will not spend any further time on the idea unless/until that changes.
+
+
+## Original README:
+
 Automated workaround for popular dependencies only available on jcenter/bintray
 
 Nothing here yet except the idea, but it is inevitable.
